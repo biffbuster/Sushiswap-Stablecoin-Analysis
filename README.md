@@ -1,4 +1,4 @@
-![](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/images/sushi_bg.png)
+![](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/blob/main/images/sushi_bg.png)
 
 # Sushiswap: Cross-Chain Stablecoin Analysis
 _________________
@@ -50,13 +50,13 @@ The following stablecoin pairs will be observed:
 In the full report you will be able to filter through the chain of your choice and aggregate by time interval of your choice. In this example we will be looking at the **Ethereum Blockchain** and the top stablecoin-to-stablecoin pairs on Sushiswap.
 
 
-![Stablecoin-to-Stablecoin Pairs](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/images/stablecoin_to_stablecoin_pairs.png)
+![Stablecoin-to-Stablecoin Pairs](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/blob/main/images/stablecoin_to_stablecoin_pairs.png)
 
 
 Now we will look at stablecoin / WETH pairs, since they have contributed to 99% of stablecoin pair volume.
 
 
-![Pair Volume Normalized](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/images/pair_volume_normalized.png)
+![Pair Volume Normalized](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/blob/main/images/pair_volume_normalized.png)
 
 
 Based on our findings, we can assume **USDC-USDT** is the most traded stablecoin-to-stablecoin pair; in fact, for the first time in over a year, **$USDT** controlled over ***56%*** of stablecoin volume on Ethereum and over ***90%*** on Arbitrum. This was the result of the USDC insolvency rumors after the collapse of Silicon Valley bank, where the $USDC stablecoin broke peg and dropped to a low of **$0.89** on March 13th-14th.
@@ -79,17 +79,17 @@ Below we will be looking at stablecoin inflows and outflows across all chains. T
 - Fantom
 
 
-![Volume By Chain](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/images/volume_by_chain.png)
+![Volume By Chain](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/blob/main/images/volume_by_chain.png)
 
 
 
-![Chain Volume](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/images/chain_volume.png)
+![Chain Volume](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/blob/main/images/chain_volume.png)
 
 
 Finally, we will highlight overall chain market share. Again, clearly Ethereum is the leading chain by volume. 
 
 
-![Chain Market Share](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/images/stablecoin_pie_chart.png)
+![Chain Market Share](https://github.com/biffbuster/Sushiswap-Stablecoin-Analysis/blob/main/images/stablecoin_pie_chart.png)
 
 
 
